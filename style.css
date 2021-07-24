@@ -36,3 +36,14 @@ nav a:hover {
     background-color: #fff;
     color: #444;
   }
+
+  footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #424242;
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
